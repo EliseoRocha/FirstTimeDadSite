@@ -32,3 +32,11 @@ C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcor
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.csproj.CopyComplete
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\LegalHelp.g.cshtml.cs
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.csprojAssemblyReference.cache
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.csproj.CoreCompileInputs.cache
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.RazorAssemblyInfo.cache
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.RazorAssemblyInfo.cs
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.AssemblyInfoInputs.cache
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.AssemblyInfo.cs
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.dll
+C:\Users\Eliseo Rocha\Desktop\Portfolio\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.pdb
