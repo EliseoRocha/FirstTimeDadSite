@@ -2,9 +2,6 @@ C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcor
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.runtimeconfig.json
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.runtimeconfig.dev.json
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.dll
-C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.pdb
-C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.Views.dll
-C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.Views.pdb
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.csprojAssemblyReference.cache
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.csproj.CoreCompileInputs.cache
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.RazorAssemblyInfo.cache
@@ -26,6 +23,9 @@ C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcor
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.RazorTargetAssemblyInfo.cache
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.RazorTargetAssemblyInfo.cs
+C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.pdb
+C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.Views.dll
+C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\bin\Debug\netcoreapp2.2\FirstTimeDadSite.Views.pdb
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.Views.pdb
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.dll
 C:\Users\Eliseo Rocha\Desktop\FirstTimeDadSite\FirstTimeDadSite\obj\Debug\netcoreapp2.2\FirstTimeDadSite.pdb

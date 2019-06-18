@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-FirstTimeDadSite-50C1E6AC-D56B-440B-AA16-90ABD307AE14")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-FirstTimeDadSite-CB6C5E40-4B52-47A4-BFEF-B90CC3F5D729")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstTimeDadSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
