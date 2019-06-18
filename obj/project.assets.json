@@ -12946,11 +12946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eliseo Rocha\\Desktop\\Portfolio\\FirstTimeDadSite\\FirstTimeDadSite.csproj",
+      "projectUniqueName": "C:\\Users\\Eliseo Rocha\\Desktop\\FirstTimeDadSite\\FirstTimeDadSite\\FirstTimeDadSite.csproj",
       "projectName": "FirstTimeDadSite",
-      "projectPath": "C:\\Users\\Eliseo Rocha\\Desktop\\Portfolio\\FirstTimeDadSite\\FirstTimeDadSite.csproj",
+      "projectPath": "C:\\Users\\Eliseo Rocha\\Desktop\\FirstTimeDadSite\\FirstTimeDadSite\\FirstTimeDadSite.csproj",
       "packagesPath": "C:\\Users\\Eliseo Rocha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eliseo Rocha\\Desktop\\Portfolio\\FirstTimeDadSite\\obj\\",
+      "outputPath": "C:\\Users\\Eliseo Rocha\\Desktop\\FirstTimeDadSite\\FirstTimeDadSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
